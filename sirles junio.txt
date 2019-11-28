@@ -1,0 +1,32 @@
+9 - ls:  Lista arquivos de um diretorio 
+mkdir :  cria um diretorio
+more:  ler arquivos de texto
+sudo: acessar permissões especiais (root)
+cp: copia arquivos da pasta 
+
+10 - 
+
+11 - depende muito de qual a nescessidade do projeto, por exemplo, ao meu ver uma aplicação web, melhor liguagem seria o PHP... mas para uma aplicação que não seja web ai 
+eu acho muito vatajoso a utilização do C ou C# e goLang
+
+12 - o front-end a grosso modo é a parte da aplicação a onde o cliente tera contato, a parte visual, já o back-end é a parte de desenvolvimento que vem por tras da aplicação
+para o funcionamento do mesmo, onde são realizado as requisições e processamento de dados
+
+13 - as vantagem da POO é a grande possibilidade de otimização da programação, com suas inumeras tecnicas como polimorfismo, sobrecarga... podendo-se assim reutizar codigos e 
+metodos diversas vezes, uma desvantagem é que mal organizada pode-se ser muito dificil a compreenção do codigo, principalmente quando se trabalhando em equipe
+
+14 - mySQL: mysql é um otimo banco de dados para ser trabalhar com empresas de pequeno a medio porte em movimentação, pois disponibiliza-se de muito recursos e suporte para 
+um otimo gerenciamento de dados, sem contar que é free
+
+ 
+Postgres: assim como mysql, postgre também é opensource, e está repleto de otimos recursos quando se trata de gerenciamento de bd, com interfaceis faceis e muito intuitivas
+
+SQLite: sqlite é uma opção muito boa para desenvolvimente de banco para aplicações mobiles
+
+Oracle: aqui falamos de o maior, mais famoso e principal bd... esse não é opensouce, é recomendado para empresas com grandes movimentações dedos...dispoe de milahres de recursos
+principalmente para acessos remotos e conectividade em varias maquinas ao mesmo banco 
+
+15- devido gigantesco crescimento da computação móvel, a programação web vem se tornando cada vez mais importante, pois a facilidade de se poder acessar uma aplicação diretametne
+do celular em locais remotos, não é mais uma opção, tem se tornado prioridade a cada dia que passa
+
+16- 
